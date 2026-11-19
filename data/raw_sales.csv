@@ -1,0 +1,10 @@
+
+transaction_id,date,product,quantity,price,customer_id
+TXN001,2026-11-18,Laptop,2,1000.00,CUST_A
+TXN002,2026-11-18,Mouse,5,25.00,CUST_B
+TXN003,2026-11-19,Laptop,1,1000.00,CUST_A
+TXN004,2026-11-19,Keyboard,,75.00,CUST_C
+TXN005,2026-11-20,Mouse,3,N/A,CUST_D
+TXN001,2026-11-18,Laptop,2,1000.00,CUST_A
+TXN006,2026-11-21,Monitor,1,300.00,CUST_E
+
